@@ -2,4 +2,4 @@
 
 Para poder correr la aplicacion ejecutar:
 
-npm init y npm start
+npm init && npm start
